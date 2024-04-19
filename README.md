@@ -2,7 +2,7 @@
 
 ## Sobre Mim 🙎‍♂️
 
-Olá, eu sou João Victor, tenho 17 anos e sou um estudante de Desenvolvimento de Sistemas no SENAI, gosto bastante de aprender coisas novas. 👨‍💻 
+Olá, eu sou João Victor, tenho 17 anos e sou um estudante de Desenvolvimento de Sistemas no SENAI, gosto bastante de aprender coisas novas.
 
 ## Estou aprendendo ✏️
 
