@@ -1,5 +1,9 @@
 <img src="https://cdn.discordapp.com/attachments/1097493454545764472/1230866879053299782/fundoGit.png?ex=6634e11c&is=66226c1c&hm=756c689baba582749da4e5a8cf0b2966beff15b52e6ba4edcb17585a8555fb36&" alt="Capa do meu perfil do Github que diz: olá, me chamo João Victor">
 
+## Sobre Mim 🙎‍♂️
+
+Olá, eu sou João Victor, tenho 17 anos e sou um estudante de Desenvolvimento de Sistemas no SENAI, gosto bastante de aprender coisas novas. 👨‍💻 
+
 ## Estou aprendendo
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
