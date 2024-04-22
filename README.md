@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1097493454545764472/1230866879053299782/fundoGit.png?ex=6634e11c&is=66226c1c&hm=756c689baba582749da4e5a8cf0b2966beff15b52e6ba4edcb17585a8555fb36&" alt="Capa do meu perfil do Github que diz: olá, me chamo João Victor">
+<img src="https://media.discordapp.net/attachments/795476916932968499/1231947659405820026/Capa_Github_copia.png ex=6638cfaa&is=66265aaa&hm=38c9b28c8c374e3e7798de15878c449ed818e10938e565b8ab2d4ab156cadac2&=&format=webp&quality=lossless&width=756&height=347" alt="Capa do meu perfil do Github que diz: olá, me chamo João Victor">
 
 ## Sobre Mim 🙎‍♂️
 
