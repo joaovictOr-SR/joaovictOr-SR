@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/795476916932968499/1231947659405820026/Capa_Github_copia.png ex=6638cfaa&is=66265aaa&hm=38c9b28c8c374e3e7798de15878c449ed818e10938e565b8ab2d4ab156cadac2&=&format=webp&quality=lossless&width=756&height=347" alt="Capa do meu perfil do Github que diz: olá, me chamo João Victor">
+<img src="../https://imgur.com/CWH6fLo" alt="Capa do meu perfil do Github que diz: olá, me chamo João Victor">
 
 ## Sobre Mim 🙎‍♂️
 
