@@ -1,4 +1,4 @@
-<img src="../https://imgur.com/CWH6fLo" alt="Capa do meu perfil do Github que diz: olá, me chamo João Victor">
+<img src="https://i.imgur.com/CWH6fLo.png" alt="Capa do meu perfil do Github que diz: olá, me chamo João Victor">
 
 ## Sobre Mim 🙎‍♂️
 
